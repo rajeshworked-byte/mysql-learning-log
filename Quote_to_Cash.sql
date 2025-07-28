@@ -1,0 +1,1 @@
+SELECT * FROM quote_to_cash.quotes;
